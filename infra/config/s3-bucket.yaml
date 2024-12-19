@@ -1,0 +1,5 @@
+template:
+  path: s3-bucket.yaml.j2
+  type: file
+parameters:
+  BucketName: wedding-rsvp-19293847
